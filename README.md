@@ -9,7 +9,7 @@ Beomseok Seo (bsseo@sookmyung.ac.kr)
 This repository contains the replication code used to generate the figures and results presented in the main text of "Econometric Forecasting Using Ubiquitous News Texts: Text-Enhanced Factor Model."
 
 The main contents of this repository are as follows:
-- `TFIs.ipynb`: codes for exploratory analysis of TFIs
+- `TFIs.ipynb`: codes for exploratory data analysis of TFIs
 - `main.ipynb`: codes for running TFM
 - `crnn.ipynb`: codes for running CRNN
 - `data/`: folder of raw and external datasets
