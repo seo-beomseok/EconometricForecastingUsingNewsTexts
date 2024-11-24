@@ -36,4 +36,6 @@ The lists of dependent packages can be found in each `.ipynb` file.
 
 Seo, B. 2024+. "Econometric Forecasting Using Ubiquitous News Texts: Text-enhanced Factor Model"
 
-The dynamic AWS web application based on TFIs can be found in "Text Indices Hub" at https://seo-beomseok.github.io/
+The dynamic AWS web application providing TFIs can be found in "Text Indices Hub" at https://seo-beomseok.github.io/
+
+
