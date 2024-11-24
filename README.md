@@ -34,14 +34,14 @@ The data descriptions are as follows:
 
 ## Instructions & computational requirements
 
-All file paths are relative to the root of this repository. All codes are runnable in Google colab environments and Python 3.7.
+All file paths are relative to the root directory of this repository. The code is compatible with Google Colab environments and requires Python 3.7 or higher.
 
-The lists of dependent packages can be found in each `.ipynb` file.
+A list of dependencies for each notebook is provided within the corresponding `.ipynb` file
 
 ## References
 
 Seo, B. 2024+. "Econometric Forecasting Using Ubiquitous News Texts: Text-enhanced Factor Model"
 
-The dynamic AWS web application providing TFIs can be found in "Text Indices Hub" at https://seo-beomseok.github.io/
+The dynamic AWS web application providing TFIs can be found at the "Text Indices Hub" via https://seo-beomseok.github.io/
 
 ---
