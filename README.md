@@ -6,7 +6,7 @@ Beomseok Seo (bsseo@sookmyung.ac.kr)
 ---
 ## Overview & contents
 
-This repository provides replication codes for generating figures and results in the main texts of "Econometric Forecasting Using Ubiquitous News Texts: Text-enhanced Factor Model"
+This repository contains the replication code used to generate the figures and results presented in the main text of "Econometric Forecasting Using Ubiquitous News Texts: Text-Enhanced Factor Model."
 
 The main contents of this repository are as follows:
 - `TFIs.ipynb`: codes for exploratory analysis of TFIs
