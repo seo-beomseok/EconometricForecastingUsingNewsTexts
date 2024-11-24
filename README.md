@@ -44,6 +44,6 @@ The dynamic AWS web application providing TFIs can be found in "Text Indices Hub
 </p>
 
 <p align="center">
-  <img src="/fig/tfi_0.png" width="400" />
-  <img src="/fig/tfi_12.png" width="400" /> 
+  <img src="/fig/tfi_0.png" width="300" />
+  <img src="/fig/tfi_12.png" width="300" /> 
 </p>
