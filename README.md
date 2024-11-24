@@ -44,4 +44,11 @@ Seo, B. 2024+. "Econometric Forecasting Using Ubiquitous News Texts: Text-enhanc
 
 The dynamic AWS web application providing TFIs can be found at the "<a href=http://54.253.91.228:8050/>Text Indices Hub</a>" via https://seo-beomseok.github.io/
 
+<br>
+<p align="center">
+  <a href=http://54.253.91.228:8050/>
+  <img src="/fig/texthub.png" width="700" />
+  </a>
+</p>
+
 ---
