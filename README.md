@@ -26,6 +26,12 @@ The data descriptions are as follows:
 - `tfi_nsi_epu.csv`: news sentiment index (NSI) and economic policy uncertainty (EPU) of Korea
 - `tfis.csv`: theme frequency indices of 15 sectors
 
+<br>
+<p align="center">
+  <img src="/fig/tfi_0.png" width="350" />
+  <img src="/fig/tfi_12.png" width="350" />
+</p>
+
 ## Instructions & computational requirements
 
 All file paths are relative to the root of this repository. All codes are runnable in Google colab environments and Python 3.7.
@@ -39,8 +45,3 @@ Seo, B. 2024+. "Econometric Forecasting Using Ubiquitous News Texts: Text-enhanc
 The dynamic AWS web application providing TFIs can be found in "Text Indices Hub" at https://seo-beomseok.github.io/
 
 ---
-
-<p align="center">
-  <img src="/fig/tfi_0.png" width="350" />
-  <img src="/fig/tfi_12.png" width="350" />
-</p>
