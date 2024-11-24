@@ -1,0 +1,53 @@
+,GROWTH,AMT,IND,RATIO,REAL,SA,QTR,LAG
+GDP(SA)(Q),1.0,,,,1.0,1.0,1.0,1
+GDP(NSA)(Q),1.0,,,,1.0,,1.0,1
+Private consumption(SA)(Q),1.0,,,,1.0,1.0,1.0,1
+Government consumption(SA)(Q),1.0,,,,1.0,1.0,1.0,1
+Construction(SA)(Q),1.0,,,,1.0,1.0,1.0,1
+Facility investment(SA)(Q),1.0,,,,1.0,1.0,1.0,1
+Exports of goods and services(SA)(Q),1.0,,,,1.0,1.0,1.0,1
+Imports of goods and services(SA)(Q),1.0,,,,1.0,1.0,1.0,1
+Private consumption(NSA)(Q),1.0,,,,1.0,,1.0,1
+Government consumption(NSA)(Q),1.0,,,,1.0,,1.0,1
+Construction(NSA)(Q),1.0,,,,1.0,,1.0,1
+Facility investment(NSA)(Q),1.0,,,,1.0,,1.0,1
+Exports of goods and services(NSA)(Q),1.0,,,,1.0,,1.0,1
+Imports of goods and services(NSA)(Q),1.0,,,,1.0,,1.0,1
+Unemployment rate,,,,1.0,,,,1
+Employment to population ratio,,,,1.0,,,,1
+Number of employed people,,1.0,,,,,,1
+Monthly goods exports,,1.0,,,,,,2
+Monthly goods imports,,1.0,,,,,,2
+Export price index,,,1.0,,1.0,,,1
+Import price index,,,1.0,,1.0,,,1
+Producer price index,,,1.0,,1.0,,,1
+Consumer price index,,,1.0,,1.0,,,1
+Price index excluding agricultural product & oil,,,1.0,,1.0,,,1
+Price index excluding food & energy,,,1.0,,1.0,,,1
+Consumption & Retail sales index(SA),,,1.0,,1.0,1.0,,1
+Service industry production index(SA),,,1.0,,1.0,1.0,,1
+Consumption & Retail sales index(NSA),,,1.0,,1.0,,,1
+Service industry production index(NSA),,,1.0,,1.0,,,1
+Manufacturing industry production index(SA),,,1.0,,1.0,1.0,,1
+Manufacturing industry shipment index(SA),,,1.0,,1.0,1.0,,1
+Manufacturing inventory index(SA),,,1.0,,1.0,1.0,,1
+Manufacturing industry production index(NSA),,,1.0,,1.0,,,1
+Manufacturing industry shipment index(NSA),,,1.0,,1.0,,,1
+Manufacturing inventory index(NSA),,,1.0,,1.0,,,1
+Facility investment index(SA),,,1.0,,1.0,1.0,,1
+Construction completed(SA),,,1.0,,1.0,1.0,,1
+Facility investment index(NSA),,,1.0,,1.0,,,1
+Construction completed(NSA),,,1.0,,1.0,,,1
+Manufacturing business performance BSI(SA),,,1.0,,1.0,1.0,,1
+Manufacturing business performance BSI(NSA),,,1.0,,1.0,,,1
+All industries performance BSI,,,1.0,,1.0,,,1
+Service industry performance BSI,,,1.0,,1.0,,,1
+All industries sales BSI,,,1.0,,1.0,,,1
+Manufacturing export BSI,,,1.0,,1.0,,,1
+Manufacturing domestic demand sales BSI,,,1.0,,1.0,,,1
+Manufacturing new orders BSI,,,1.0,,1.0,,,1
+Manufacturing operation rate BSI,,,1.0,,1.0,,,1
+Economic sentiment index,,,1.0,,1.0,,,1
+Current economic judgment CSI,,,1.0,,1.0,,,1
+Consumer sentiment index,,,1.0,,1.0,,,1
+Consolidated fiscal balance,,1.0,,,1.0,,,3
