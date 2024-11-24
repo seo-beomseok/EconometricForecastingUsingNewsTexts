@@ -1,5 +1,5 @@
 # Replication package for "Econometric Forecasting Using Ubiquitous News Texts: Text-enhanced Factor Model"
-
+![](./fig/news_survey.png) 
 2024-11-22
 Beomseok Seo (bsseo@sookmyung.ac.kr)
 
@@ -25,6 +25,10 @@ The data descriptions are as follows:
 - `lda_prop.csv`: latent Dirichlet allocation (LDA) topic series
 - `tfi_nsi_epu.csv`: news sentiment index (NSI) and economic policy uncertainty (EPU) of Korea
 - `tfis.csv`: theme frequency indices of 15 sectors
+
+Production TFI             |  KOSPI TFI
+:-------------------------:|:-------------------------:
+![](./fig/tfi_0.png)  |  ![](./fig/tfi_12.png)
 
 ## Instructions & computational requirements
 
