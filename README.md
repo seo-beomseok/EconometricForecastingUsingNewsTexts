@@ -9,22 +9,22 @@ Beomseok Seo (bsseo@sookmyung.ac.kr)
 This repository provides replication codes for generating figures and results in the main texts of "Econometric Forecasting Using Ubiquitous News Texts: Text-enhanced Factor Model"
 
 The main contents of this repository are as follows:
-`TFIs.ipynb`: codes for exploratory analysis of TFIs
-`main.ipynb`: codes for running TFM
-`crnn.ipynb`: codes for running CRNN
-`data`: folder of raw and external datasets
-`fig`: folder of generated figures
-`outs`: folder of generated results
+- `TFIs.ipynb`: codes for exploratory analysis of TFIs
+- `main.ipynb`: codes for running TFM
+- `crnn.ipynb`: codes for running CRNN
+- `data/`: folder of raw and external datasets
+- `fig/`: folder of generated figures
+- `outs/`: folder of generated results
 
 The data descriptions are as follows:
-`SI_month_xxx_2005.xx.xx_2024.xx.xx.csv`: external files (their sources are provided in `TFIs.ipynb`)
-`all_dat_MoM.csv`: dataset transformed in the month-over-month growth rate
-`all_dat_YoY.csv`: dataset transformed in the year-over-year growth rate
-`all_grp.csv`: the factor structure used in TFM
-`macro_feat.csv`: meta-information about official statistics including publication lags
-`lda_prop.csv`: latent Dirichlet allocation (LDA) topic series
-`tfi_nsi_epu.csv`: news sentiment index (NSI) and economic policy uncertainty (EPU) of Korea
-`tfis.csv`: theme frequency indices of 15 sectors
+- `SI_month_xxx_2005.xx.xx_2024.xx.xx.csv`: external files (their sources are provided in `TFIs.ipynb`)
+- `all_dat_MoM.csv`: dataset transformed in the month-over-month growth rate
+- `all_dat_YoY.csv`: dataset transformed in the year-over-year growth rate
+- `all_grp.csv`: the factor structure used in TFM
+- `macro_feat.csv`: meta-information about official statistics including publication lags
+- `lda_prop.csv`: latent Dirichlet allocation (LDA) topic series
+- `tfi_nsi_epu.csv`: news sentiment index (NSI) and economic policy uncertainty (EPU) of Korea
+- `tfis.csv`: theme frequency indices of 15 sectors
 
 ## Instructions & computational requirements
 
