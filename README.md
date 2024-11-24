@@ -42,6 +42,6 @@ A list of dependencies for each notebook is provided within the corresponding `.
 
 Seo, B. 2024+. "Econometric Forecasting Using Ubiquitous News Texts: Text-enhanced Factor Model"
 
-The dynamic AWS web application providing TFIs can be found at the "Text Indices Hub" via https://seo-beomseok.github.io/
+The dynamic AWS web application providing TFIs can be found at the "<a href=http://54.253.91.228:8050/>Text Indices Hub</a>" via https://seo-beomseok.github.io/
 
 ---
