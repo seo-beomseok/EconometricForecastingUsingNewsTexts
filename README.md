@@ -1,7 +1,5 @@
 # Replication package for "Econometric Forecasting Using Ubiquitous News Texts: Text-enhanced Factor Model"
 
-<img src="./fig/news_survey.png" alt="drawing" width="200"/>
-
 2024-11-22
 Beomseok Seo (bsseo@sookmyung.ac.kr)
 
@@ -28,8 +26,6 @@ The data descriptions are as follows:
 - `tfi_nsi_epu.csv`: news sentiment index (NSI) and economic policy uncertainty (EPU) of Korea
 - `tfis.csv`: theme frequency indices of 15 sectors
 
-![](./fig/tfi_0.png)  |  ![](./fig/tfi_12.png)
-
 ## Instructions & computational requirements
 
 All file paths are relative to the root of this repository. All codes are runnable in Google colab environments and Python 3.7.
@@ -42,4 +38,11 @@ Seo, B. 2024+. "Econometric Forecasting Using Ubiquitous News Texts: Text-enhanc
 
 The dynamic AWS web application providing TFIs can be found in "Text Indices Hub" at https://seo-beomseok.github.io/
 
+<p float="center">
+  <img src="/fig/news_survey.png" width="400" />
+</p>
 
+<p float="center">
+  <img src="/fig/tfi_0.png" width="200" />
+  <img src="/fig/tfi_12.png" width="200" /> 
+</p>
