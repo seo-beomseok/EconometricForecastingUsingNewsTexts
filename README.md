@@ -47,7 +47,7 @@ The dynamic AWS web application providing TFIs can be found at the "<a href=http
 <br>
 <p align="center">
   <a href=http://54.253.91.228:8050/>
-  <img src="/fig/texthub.png" width="700" />
+  <img src="/fig/texthub.png" width="800" />
   </a>
 </p>
 
