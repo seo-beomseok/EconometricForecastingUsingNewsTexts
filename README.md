@@ -34,7 +34,7 @@ The data descriptions are as follows:
 
 ## Instructions & computational requirements
 
-All file paths are relative to the root directory of this repository. The code is compatible with Google Colab environments and requires Python 3.7 or higher with `pandas` (1.3.5), `matplotlib` (3.5.3), `statsmodels` (0.13.5), `joblib` (1.3.2), `seaborn` (0.12.2), `tensorflow` (2.11.0), `keras` (2.9.0), `absl-py` (2.1.0), `protobuf` (3.20.1), `wrapt` (1.16.0), `opt-einsum` (3.3.0), and `astunparse` (1.6.3).
+All file paths are relative to the root directory of this repository. The code is compatible with Google Colab environments and requires Python 3.7 or higher with `pandas` (1.3.5), `matplotlib` (3.5.3), `statsmodels` (0.13.5), `joblib` (1.3.2), `seaborn` (0.12.2), `tensorflow` (2.11.0), `keras` (2.9.0), `absl-py` (2.1.0), `protobuf` (3.20.1), `wrapt` (1.16.0), `opt-einsum` (3.3.0), `astunparse` (1.6.3), `termcolor` (2.3.0), and `flatbuffers` (24.3.25).
 
 A list of dependencies for each notebook is provided within the corresponding `.ipynb` file
 
