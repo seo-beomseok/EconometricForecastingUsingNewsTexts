@@ -1,6 +1,6 @@
 # Replication package for "Econometric Forecasting Using Ubiquitous News Texts: Text-enhanced Factor Model"
 
-2024-11-22
+2024-11-29
 Beomseok Seo (bsseo@sookmyung.ac.kr)
 
 ---
